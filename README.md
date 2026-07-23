@@ -5,7 +5,7 @@ This project is a content-based recommendation system that recommends relevant H
 ## Dataset Information
 Source: Hugging Face
 Total Hadiths: 33,738
-Features: 11
+Features: 9
 ## Exploratory Data Analysis
 No missing values
 No duplicate records
