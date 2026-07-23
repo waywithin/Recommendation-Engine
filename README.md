@@ -27,6 +27,8 @@ Better handling of empty or irrelevant queries
 Collaborative filtering
 Hybrid recommendation system
 Semantic recommendations using transformer-based embeddings
+## Application Preview
+![Recommendation System](images/streamlit_app.png)
 ## Author
 Nubula H
 Data Science & Machine Learning Learner
