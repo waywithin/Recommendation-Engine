@@ -60,9 +60,3 @@ if st.button("Recommend"):
                 st.write(recommendations.iloc[i]["Arabic_Text"])
 
                 st.markdown("---")
-
-
-#autofill
-
-
-         
